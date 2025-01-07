@@ -1490,6 +1490,9 @@ section {
 }
 
 @media screen and (max-width: 576px) {
+  .headings h1 {
+    font-size: 2rem;
+  }
   .side_bar {
     width: 70%;
   }
@@ -1544,11 +1547,23 @@ section {
   .design_skill h1 {
     font-size: 1.2rem;
   }
+  .awardCard {
+    max-width: 100%;
+  }
+  .portfolio_cards {
+    display: block;
+  }
+  .contact_box h2 {
+    font-size: 1rem;
+  }
   .blog_box {
     flex-direction: column;
   }
   .map iframe {
     height: 30vh;
     border-radius: 8px;
+  }
+  .copyright p {
+    font-size: 0.9rem;
   }
 }
