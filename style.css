@@ -1533,6 +1533,12 @@ section {
   .about p {
     font-size: 1.1rem;
   }
+  .info h2 {
+    font-size: 1.1rem;
+  }
+  .info_det h2 {
+    font-size: 1.1rem;
+  }
   .education_experience {
     width: 100%;
   }
