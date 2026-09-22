@@ -28,7 +28,6 @@ I also work with REST APIs, authentication systems, admin dashboards, e-commerce
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 
 ### Frontend
 
@@ -37,6 +36,8 @@ I also work with REST APIs, authentication systems, admin dashboards, e-commerce
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### CSS Frameworks
 
@@ -51,8 +52,6 @@ I also work with REST APIs, authentication systems, admin dashboards, e-commerce
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ---
@@ -72,46 +71,19 @@ I also work with REST APIs, authentication systems, admin dashboards, e-commerce
 
 ---
 
-## 📌 Featured Projects
-
-### 🛒 Laravel E-commerce
-
-A complete e-commerce application built with Laravel featuring product management, categories, orders, authentication and admin functionality.
-
-### 🚗 PTKA / EPC Application
-
-A modern automotive parts/catalog application built using:
-
-- Laravel
-- Vue 3
-- Inertia.js
-- Tailwind CSS
-- MySQL
-
-### 📺 Cricket Live Score System
-
-A live cricket scoring and scoreboard system rebuilt using:
-
-- Laravel
-- Vue 3
-- Inertia.js
-- Tailwind CSS
-
----
-
 ## 📊 GitHub Stats
 
-![Wahid Hasib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Wahid Hasib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahidhasib&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahidhasib&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahidhasib)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahid-hasib)
 
 ---
 
